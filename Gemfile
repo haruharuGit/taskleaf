@@ -59,3 +59,10 @@ gem 'slim-rails'
 gem "html2slim", github: "slim-template/html2slim"
 
 gem 'bootstrap'
+
+gem 'importmap-rails'
+gem 'turbo-rails'
+gem 'stimulus-rails'
+
+# もしjqueryを使用している場合
+gem 'jquery-rails'
