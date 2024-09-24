@@ -66,3 +66,5 @@ gem 'stimulus-rails'
 
 # もしjqueryを使用している場合
 gem 'jquery-rails'
+
+gem 'rails_autolink'
